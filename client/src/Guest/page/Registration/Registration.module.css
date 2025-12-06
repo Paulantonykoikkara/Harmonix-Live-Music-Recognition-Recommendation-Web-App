@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    height: 70vh;
+    align-items: center;
+    
+}
+.Privacycard{
+    padding: 20px;
+    width: 300px;
+}

@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    height: 70vh;
+    align-items: center;
+    /* background-image: linear-gradient(blue,green); */
+    height: ;
+    
+}
+.Privacycard{
+    padding: 20px;
+    width: 300px;
+    margin-top: 200px;
+}
+.main_sub{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

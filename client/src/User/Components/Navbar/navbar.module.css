@@ -1,0 +1,12 @@
+/* .{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(244, 177, 237);
+} */
+.nav_icon{
+    display: flex;
+    justify-content: end;
+    /* margin-right: 20px; */
+    padding: 40px;
+}
+ /* Line added */

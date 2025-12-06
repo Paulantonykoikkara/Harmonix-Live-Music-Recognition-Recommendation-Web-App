@@ -1,0 +1,36 @@
+.bgstyle{
+    background-image: linear-gradient(#3286d0,#835883);
+    background-size: cover;
+    height: 100vh;
+}
+.logo_style{
+    width: 70px;
+    border-radius: 50px;
+
+}
+.sub_div{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.item{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+}
+.caption_div{
+    padding: 90px;
+}
+.caption{
+    font-size: 40px;
+    color: aliceblue;
+    line-height: 90px;
+}
+.span_style{
+    color: violet;
+}
+.button_style{
+    font-family: 'Times New Roman', Times, serif;
+}
