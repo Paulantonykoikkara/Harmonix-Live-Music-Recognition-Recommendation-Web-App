@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Live Music Recognition App
+
+#    Harmonix-Live-Music-Recognition-Recommendation-Web-App
 
 Demo: [Live Music Recognition](https://live-music-recognition.vercel.app/)
 
@@ -101,6 +101,6 @@ This project is licensed under the MIT License.
 ---
 
 Enjoy recognizing music effortlessly and exploring similar tracks!
+
 =======
-# Harmonix-Live-Music-Recognition-Recommendation-Web-App
->>>>>>> 684e0864beab85320f5f8f7bcfc890ebd322b35d
+
